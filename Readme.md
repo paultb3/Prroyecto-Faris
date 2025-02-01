@@ -3,12 +3,7 @@
 ![Imagen del programa](src/img/proyecto.png)
 
 
-## Tabla de Contenidos
-
-- [Instalación](#instalación)
-
 ## Instalación
-
 
 ```bash
 # Clonar el repositorio
@@ -20,8 +15,10 @@ cd nombre-del-repositorio
 # Instalar dependencias
 npm install
 
-# Correr el proyecto en local
+# Ejecutar el proyecto 
 npm run dev
 
-# Ingresar con crtl + click derecho en windows
+```
+# Ingresar al link con (crtl + click derecho) en windows
+
 ![Imagen de loq ue sale cunado lo corres](src/img/correr_proyecto.png)
