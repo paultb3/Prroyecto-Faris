@@ -4,6 +4,9 @@ import './style.css'
 import { buttonElement } from './random.js'
 
 document.querySelector('#app').innerHTML = `
+
+<img src="src/img/pensar.png" alt="Imagen de ejemplo" width="200" >
+
   <div>
     <h1>Adivina tu numero!</h1>
     <div class="card">
