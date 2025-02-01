@@ -1,7 +1,6 @@
 # Adivina el Numero
 
-![](../Prroyecto-Faris/src/img/proyecto.png)
-
+![Imagen del programa](src/img/proyecto.png)
 
 
 ## Tabla de Contenidos
@@ -25,4 +24,4 @@ npm install
 npm run dev
 
 # Ingresar con crtl + click derecho en windows
-![](../Prroyecto-Faris/src/img/correr_proyecto.png)
+![Imagen de loq ue sale cunado lo corres](src/img/correr_proyecto.png)
