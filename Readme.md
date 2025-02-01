@@ -1,6 +1,6 @@
 # Adivina el Numero
 
-![Imagen del programa](src/img/proyecto.png)
+![Imagen del programa](src/img/proyectoPr.png)
 
 
 ## Instalación
