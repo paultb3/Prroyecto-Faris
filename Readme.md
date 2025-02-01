@@ -19,6 +19,6 @@ npm install
 npm run dev
 
 ```
-# Ingresar al link con (crtl + click derecho) en windows
+## Ingresar al link con (crtl + click derecho) en windows
 
 ![Imagen de loq ue sale cunado lo corres](src/img/correr_proyecto.png)
