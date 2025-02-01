@@ -1,14 +1,12 @@
 # Adivina el Numero
 
-![Proyecto](../Prroyecto-Faris/src/img/proyecto.png)
+![](../Prroyecto-Faris/src/img/proyecto.png)
 
 
 
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 
 ## Instalación
 
@@ -27,4 +25,4 @@ npm install
 npm run dev
 
 # Ingresar con crtl + click derecho en windows
-![Proyecto](../Prroyecto-Faris/src/img/correr_proyecto.png)
+![](../Prroyecto-Faris/src/img/correr_proyecto.png)
